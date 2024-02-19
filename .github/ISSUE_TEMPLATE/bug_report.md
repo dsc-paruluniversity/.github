@@ -1,7 +1,6 @@
 ---
 name: Report a bug
-about: You found a bug causing your application to crash or
-throw an exception, or something looks wrong.
+about: You found a bug causing your application to crash or throw an exception, or something looks wrong.
 title: ''
 labels: ''
 assignees: ''
