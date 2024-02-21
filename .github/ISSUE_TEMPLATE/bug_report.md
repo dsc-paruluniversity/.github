@@ -23,20 +23,15 @@ Please tell us exactly how to reproduce the problem you are running into.
 3. Scroll down to '....'
 4. See error
 
-**Expected results**
-
-Please tell us what is expected to happen.
-
-**Actual results**
-
-Please tell us what is actually happening.
-
 **Code sample**
 
 Please create a minimal reproducible sample that shows the problem, and attach it below between the lines with the backticks.
 
 ```tsx
-[Paste your code here]
+// If you are using Web3Auth PnP SDK, please provide Web3Auth initialization
+// and login code snippet.
+
+// Paste your code here
 ```
 
 **Screenshots or Video**
@@ -55,14 +50,14 @@ or the above mentioned ways to upload logs.
 ```
 
 **Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
+ - OS: [e.g. iOS, Android, MacOS, Windows]
+ - Browser [e.g. Chrome, Safari, Brave, Firefox]
  - Version [e.g. 22]
 
 **Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
+ - Device: [e.g. iPhone6, Samsung S22, iPhone 12]
+ - OS: [e.g. Android 12, iOS 14, iOS 13.1]
+ - Browser [e.g. Chrome, Safari, Brave, Firefox]
  - Version [e.g. 22]
 
 **Additional context**
